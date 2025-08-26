@@ -20,7 +20,7 @@ def limpiar():
 
 def main():
     limpiar()
-    user = str(input("Tiktok Username: "))
+    user = str(input("Tiktok Username: Trần Phương Nam."))
     try:
         def iniciar():
             
@@ -197,5 +197,6 @@ def menu():
         pass
     
 menu()
+
 
 
