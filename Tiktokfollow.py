@@ -20,14 +20,14 @@ def limpiar():
 
 def main():
     limpiar()
-    user = str(input("Tiktok Username: "))
+    user = str(input("Tiktok Username:namta993 "))
     try:
         def iniciar():
             
             while True:
                 
                 limpiar()
-                print("Username: "+Fore.GREEN+f"{user}"+Fore.RESET)
+                print("Username:namta993 "+Fore.GREEN+f"{user}"+Fore.RESET)
                 urltk = "https://tikfollowers.com/free-tiktok-followers"
                 
                 tkheaders = {
@@ -197,5 +197,6 @@ def menu():
         pass
     
 menu()
+
 
 
