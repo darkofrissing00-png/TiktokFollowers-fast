@@ -20,7 +20,8 @@ def limpiar():
 
 def main():
     limpiar()
-    user = str(input("Tiktok Username:namta993 "))
+    user = str(input("https://www.tiktok.com/@namta993?_r=1&_d=el0l42abk35hlm&sec_uid=MS4wLjABAAAALirJLU_tohmFLq_s9ryr2eZya-4XFZzj5ojWYOWkq7P29L6zYyBDpjB7_EqOSPLC&share_author_id=6911950113847116802&sharer_language=vi&source=h5_t&u_code=dg96ajkmcmemgl&timestamp=1756463908&user_id=6911950113847116802&sec_user_id=MS4wLjABAAAALirJLU_tohmFLq_s9ryr2eZya-4XFZzj5ojWYOWkq7P29L6zYyBDpjB7_EqOSPLC&item_author_type=1&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7542536631857841938&share_link_id=deee0c60-fc0d-497d-9644-bb7f4dc86c5e&share_app_id=1180&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb4907&social_share_type=5&enable_checksum=1
+    "))
     try:
         def iniciar():
             
@@ -197,6 +198,7 @@ def menu():
         pass
     
 menu()
+
 
 
 
